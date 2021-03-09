@@ -1,2 +1,0 @@
-# rromero.io
-Assignment PHP
